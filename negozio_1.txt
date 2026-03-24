@@ -1,0 +1,10 @@
+1*Cane*Fido*5*500.00
+2*Gatto*Micio*2*250.00
+3*Coniglio*Tamburino*1*75.00
+4*Pesce*Nemo*0*15.00
+5*Pappagallo*Paco*3*180.00
+6*Tartaruga*Speedy*10*90.00
+7*Criceto*Briciola*0*20.00
+8*Serpente*Kaa*4*120.00
+9*Furetto*Rocky*2*100.00
+10*Cincilla*Chico*3*60.00

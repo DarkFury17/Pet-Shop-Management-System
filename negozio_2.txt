@@ -1,0 +1,10 @@
+11*Cavallo*Spirit*8*1500.00
+12*Mucca*Bella*6*800.00
+13*Pecora*Dolly*3*120.00
+14*Capra*Billy*4*100.00
+15*Maiale*Babe*1*300.00
+16*Gallina*Coccode*2*30.00
+17*Anatra*Quackers*1*40.00
+18*Topo*Jerry*0*5.00
+19*Cavia*Fluffy*1*35.00
+20*Istrice*Spiky*2*70.00

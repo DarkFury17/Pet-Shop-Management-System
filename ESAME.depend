@@ -1,0 +1,769 @@
+# depslib dependency file v1.0
+1751916558 source:c:\users\peppe1704\desktop\esameluglio\esame\controlli.c
+	"controlli.h"
+
+1751916226 c:\users\peppe1704\desktop\esameluglio\esame\controlli.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"dati.h"
+
+1751919833 c:\users\peppe1704\desktop\esameluglio\esame\dati.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1751917869 source:c:\users\peppe1704\desktop\esameluglio\esame\file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"file.h"
+	"dati.h"
+	"controlli.h"
+	"utils.h"
+
+1751917869 c:\users\peppe1704\desktop\esameluglio\esame\file.h
+	"dati.h"
+	"controlli.h"
+	"utils.h"
+
+1751919341 source:c:\users\peppe1704\desktop\esameluglio\esame\funzioni.c
+	"funzioni.h"
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"utils.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1751917907 c:\users\peppe1704\desktop\esameluglio\esame\funzioni.h
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"utils.h"
+	<stdio.h>
+
+1751917686 source:c:\users\peppe1704\desktop\esameluglio\esame\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funzioni.h"
+
+1751919855 source:c:\users\peppe1704\desktop\esameluglio\esame\dati.c
+	"dati.h"
+	"controlli.h"
+
+1751919190 source:c:\users\peppe1704\desktop\esameluglio\esame\test.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"test.h"
+	"utils.h"
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"funzioni.h"
+	<assert.h>
+
+1751917686 c:\users\peppe1704\desktop\esameluglio\esame\test.h
+
+1751917686 c:\users\peppe1704\desktop\esameluglio\esame\utils.h
+
+1751917686 source:c:\users\peppe1704\desktop\esameluglio\esame\utils.c
+	"utils.h"
+	"controlli.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1751965793 source:c:\users\utente\desktop\esamegestionescarpe\esameluglio\esame\controlli.c
+	"controlli.h"
+
+1751965562 c:\users\utente\desktop\esamegestionescarpe\esameluglio\esame\controlli.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"dati.h"
+
+1751966667 c:\users\utente\desktop\esamegestionescarpe\esameluglio\esame\dati.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1751965859 source:c:\users\utente\desktop\esamegestionescarpe\esameluglio\esame\dati.c
+	"dati.h"
+	"controlli.h"
+
+1751965983 source:c:\users\utente\desktop\esamegestionescarpe\esameluglio\esame\file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"file.h"
+	"dati.h"
+	"controlli.h"
+	"utils.h"
+
+1751966713 c:\users\utente\desktop\esamegestionescarpe\esameluglio\esame\file.h
+	"dati.h"
+	"controlli.h"
+	"utils.h"
+
+1751966796 c:\users\utente\desktop\esamegestionescarpe\esameluglio\esame\utils.h
+
+1751966107 source:c:\users\utente\desktop\esamegestionescarpe\esameluglio\esame\funzioni.c
+	"funzioni.h"
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"utils.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1751966748 c:\users\utente\desktop\esamegestionescarpe\esameluglio\esame\funzioni.h
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"utils.h"
+	<stdio.h>
+
+1751966144 source:c:\users\utente\desktop\esamegestionescarpe\esameluglio\esame\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funzioni.h"
+
+1751965562 source:c:\users\utente\desktop\esamegestionescarpe\esameluglio\esame\test.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"test.h"
+	"utils.h"
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"funzioni.h"
+	<assert.h>
+
+1751965562 c:\users\utente\desktop\esamegestionescarpe\esameluglio\esame\test.h
+
+1751966559 source:c:\users\utente\desktop\esamegestionescarpe\esameluglio\esame\utils.c
+	"utils.h"
+	"controlli.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1752092331 source:c:\users\peppe1704\desktop\finale\esamegestionescarpe\esamegestionescarpe\esameluglio\esame\controlli.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"controlli.h"
+	"dati.h"
+
+1752091206 c:\users\peppe1704\desktop\finale\esamegestionescarpe\esamegestionescarpe\esameluglio\esame\controlli.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"dati.h"
+
+1752091158 c:\users\peppe1704\desktop\finale\esamegestionescarpe\esamegestionescarpe\esameluglio\esame\dati.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1752086748 source:c:\users\peppe1704\desktop\finale\esamegestionescarpe\esamegestionescarpe\esameluglio\esame\dati.c
+	"dati.h"
+	"controlli.h"
+
+1752091068 source:c:\users\peppe1704\desktop\finale\esamegestionescarpe\esamegestionescarpe\esameluglio\esame\file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"file.h"
+	"dati.h"
+	"controlli.h"
+	"utils.h"
+
+1752089123 c:\users\peppe1704\desktop\finale\esamegestionescarpe\esamegestionescarpe\esameluglio\esame\file.h
+	"dati.h"
+	"controlli.h"
+	"utils.h"
+
+1752087448 c:\users\peppe1704\desktop\finale\esamegestionescarpe\esamegestionescarpe\esameluglio\esame\utils.h
+
+1752090580 source:c:\users\peppe1704\desktop\finale\esamegestionescarpe\esamegestionescarpe\esameluglio\esame\funzioni.c
+	"funzioni.h"
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"utils.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1752087055 c:\users\peppe1704\desktop\finale\esamegestionescarpe\esamegestionescarpe\esameluglio\esame\funzioni.h
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"utils.h"
+	<stdio.h>
+
+1752086206 source:c:\users\peppe1704\desktop\finale\esamegestionescarpe\esamegestionescarpe\esameluglio\esame\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funzioni.h"
+
+1752091456 source:c:\users\peppe1704\desktop\finale\esamegestionescarpe\esamegestionescarpe\esameluglio\esame\test.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"test.h"
+	"utils.h"
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"funzioni.h"
+	<assert.h>
+
+1752086206 c:\users\peppe1704\desktop\finale\esamegestionescarpe\esamegestionescarpe\esameluglio\esame\test.h
+
+1752087448 source:c:\users\peppe1704\desktop\finale\esamegestionescarpe\esamegestionescarpe\esameluglio\esame\utils.c
+	"utils.h"
+	"controlli.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1752101221 source:c:\users\peppe1704\desktop\finale\esamegestionescarpe1.0\esamegestionescarpe\esameluglio\esame\controlli.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"controlli.h"
+	"dati.h"
+
+1752102814 c:\users\peppe1704\desktop\finale\esamegestionescarpe1.0\esamegestionescarpe\esameluglio\esame\controlli.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"dati.h"
+
+1752102814 c:\users\peppe1704\desktop\finale\esamegestionescarpe1.0\esamegestionescarpe\esameluglio\esame\dati.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1752101221 source:c:\users\peppe1704\desktop\finale\esamegestionescarpe1.0\esamegestionescarpe\esameluglio\esame\dati.c
+	"dati.h"
+	"controlli.h"
+
+1752101613 source:c:\users\peppe1704\desktop\finale\esamegestionescarpe1.0\esamegestionescarpe\esameluglio\esame\file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"file.h"
+	"dati.h"
+	"controlli.h"
+	"utils.h"
+
+1752102814 c:\users\peppe1704\desktop\finale\esamegestionescarpe1.0\esamegestionescarpe\esameluglio\esame\file.h
+	"dati.h"
+	"controlli.h"
+	"utils.h"
+
+1752102814 c:\users\peppe1704\desktop\finale\esamegestionescarpe1.0\esamegestionescarpe\esameluglio\esame\utils.h
+	"dati.h"
+	"file.h"
+
+1752102264 source:c:\users\peppe1704\desktop\finale\esamegestionescarpe1.0\esamegestionescarpe\esameluglio\esame\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funzioni.h"
+	"test.h"
+
+1752102814 c:\users\peppe1704\desktop\finale\esamegestionescarpe1.0\esamegestionescarpe\esameluglio\esame\funzioni.h
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"utils.h"
+	<stdio.h>
+
+1752101758 source:c:\users\peppe1704\desktop\finale\esamegestionescarpe1.0\esamegestionescarpe\esameluglio\esame\test.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"test.h"
+	"utils.h"
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"funzioni.h"
+	<assert.h>
+
+1752102814 c:\users\peppe1704\desktop\finale\esamegestionescarpe1.0\esamegestionescarpe\esameluglio\esame\test.h
+
+1752101758 source:c:\users\peppe1704\desktop\finale\esamegestionescarpe1.0\esamegestionescarpe\esameluglio\esame\utils.c
+	"utils.h"
+	"controlli.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1752101613 source:c:\users\peppe1704\desktop\finale\esamegestionescarpe1.0\esamegestionescarpe\esameluglio\esame\funzioni.c
+	"funzioni.h"
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"utils.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1752684612 source:c:\users\mdipa\desktop\esamegestionescarpe\esame\dati.c
+	"dati.h"
+	"controlli.h"
+
+1752685564 c:\users\mdipa\desktop\esamegestionescarpe\esame\dati.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1752685504 c:\users\mdipa\desktop\esamegestionescarpe\esame\controlli.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"dati.h"
+
+1752684707 source:c:\users\mdipa\desktop\esamegestionescarpe\esame\file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"file.h"
+	"dati.h"
+	"controlli.h"
+	"utils.h"
+
+1752686280 c:\users\mdipa\desktop\esamegestionescarpe\esame\file.h
+	"dati.h"
+	"controlli.h"
+	"utils.h"
+
+1752686350 c:\users\mdipa\desktop\esamegestionescarpe\esame\utils.h
+	"dati.h"
+	"file.h"
+
+1752684836 source:c:\users\mdipa\desktop\esamegestionescarpe\esame\funzioni.c
+	"funzioni.h"
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"utils.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1752686399 c:\users\mdipa\desktop\esamegestionescarpe\esame\funzioni.h
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"utils.h"
+	<stdio.h>
+
+1752684968 source:c:\users\mdipa\desktop\esamegestionescarpe\esame\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funzioni.h"
+	"test.h"
+
+1752686481 c:\users\mdipa\desktop\esamegestionescarpe\esame\test.h
+
+1752104388 source:c:\users\mdipa\desktop\esamegestionescarpe\esame\test.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"test.h"
+	"utils.h"
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"funzioni.h"
+	<assert.h>
+
+1752685479 source:c:\users\mdipa\desktop\esamegestionescarpe\esame\utils.c
+	"utils.h"
+	"controlli.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1752684232 source:c:\users\mdipa\desktop\esamegestionescarpe\esame\controlli.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"controlli.h"
+	"dati.h"
+
+1752697805 source:c:\users\peppe1704\desktop\terzoappello\esamegestionescarpe(senza_commenti)\esamegestionescarpe\esame\controlli.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"controlli.h"
+	"dati.h"
+
+1752697805 c:\users\peppe1704\desktop\terzoappello\esamegestionescarpe(senza_commenti)\esamegestionescarpe\esame\controlli.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"dati.h"
+
+1752696424 c:\users\peppe1704\desktop\terzoappello\esamegestionescarpe(senza_commenti)\esamegestionescarpe\esame\dati.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1752697250 source:c:\users\peppe1704\desktop\terzoappello\esamegestionescarpe(senza_commenti)\esamegestionescarpe\esame\dati.c
+	"dati.h"
+	"controlli.h"
+
+1752696898 source:c:\users\peppe1704\desktop\terzoappello\esamegestionescarpe(senza_commenti)\esamegestionescarpe\esame\file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"file.h"
+	"dati.h"
+	"controlli.h"
+	"utils.h"
+
+1752696898 c:\users\peppe1704\desktop\terzoappello\esamegestionescarpe(senza_commenti)\esamegestionescarpe\esame\file.h
+	"dati.h"
+	"controlli.h"
+	"utils.h"
+
+1752697230 c:\users\peppe1704\desktop\terzoappello\esamegestionescarpe(senza_commenti)\esamegestionescarpe\esame\utils.h
+	"dati.h"
+	"file.h"
+
+1752697351 source:c:\users\peppe1704\desktop\terzoappello\esamegestionescarpe(senza_commenti)\esamegestionescarpe\esame\funzioni.c
+	"funzioni.h"
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"utils.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1752697027 c:\users\peppe1704\desktop\terzoappello\esamegestionescarpe(senza_commenti)\esamegestionescarpe\esame\funzioni.h
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"utils.h"
+	<stdio.h>
+
+1752697370 source:c:\users\peppe1704\desktop\terzoappello\esamegestionescarpe(senza_commenti)\esamegestionescarpe\esame\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funzioni.h"
+	"test.h"
+
+1752695254 c:\users\peppe1704\desktop\terzoappello\esamegestionescarpe(senza_commenti)\esamegestionescarpe\esame\test.h
+
+1752697230 source:c:\users\peppe1704\desktop\terzoappello\esamegestionescarpe(senza_commenti)\esamegestionescarpe\esame\test.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"test.h"
+	"utils.h"
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"funzioni.h"
+	<assert.h>
+
+1752697230 source:c:\users\peppe1704\desktop\terzoappello\esamegestionescarpe(senza_commenti)\esamegestionescarpe\esame\utils.c
+	"utils.h"
+	"controlli.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1752871032 source:c:\users\peppe1704\desktop\terzoappello\esamegestionenegozioanimali\esamegestionescarpe\esame\file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"file.h"
+	"dati.h"
+	"controlli.h"
+	"utils.h"
+
+1752872461 c:\users\peppe1704\desktop\terzoappello\esamegestionenegozioanimali\esamegestionescarpe\esame\file.h
+	"dati.h"
+	"controlli.h"
+	"utils.h"
+
+1752872461 c:\users\peppe1704\desktop\terzoappello\esamegestionenegozioanimali\esamegestionescarpe\esame\dati.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1752871741 c:\users\peppe1704\desktop\terzoappello\esamegestionenegozioanimali\esamegestionescarpe\esame\controlli.h
+	<stdio.h>
+	"dati.h"
+
+1752872461 c:\users\peppe1704\desktop\terzoappello\esamegestionenegozioanimali\esamegestionescarpe\esame\utils.h
+	"dati.h"
+	"file.h"
+
+1752872461 source:c:\users\peppe1704\desktop\terzoappello\esamegestionenegozioanimali\esamegestionescarpe\esame\funzioni.c
+	"funzioni.h"
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"utils.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<strings.h>
+	<math.h>
+
+1752872461 c:\users\peppe1704\desktop\terzoappello\esamegestionenegozioanimali\esamegestionescarpe\esame\funzioni.h
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"utils.h"
+	<stdio.h>
+
+1752872461 source:c:\users\peppe1704\desktop\terzoappello\esamegestionenegozioanimali\esamegestionescarpe\esame\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funzioni.h"
+	"test.h"
+
+1752871889 c:\users\peppe1704\desktop\terzoappello\esamegestionenegozioanimali\esamegestionescarpe\esame\test.h
+
+1752871535 source:c:\users\peppe1704\desktop\terzoappello\esamegestionenegozioanimali\esamegestionescarpe\esame\test.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"test.h"
+	"utils.h"
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"funzioni.h"
+	<assert.h>
+
+1752871589 source:c:\users\peppe1704\desktop\terzoappello\esamegestionenegozioanimali\esamegestionescarpe\esame\utils.c
+	"utils.h"
+	"controlli.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1752870881 source:c:\users\peppe1704\desktop\terzoappello\esamegestionenegozioanimali\esamegestionescarpe\esame\controlli.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"controlli.h"
+
+1752870976 source:c:\users\peppe1704\desktop\terzoappello\esamegestionenegozioanimali\esamegestionescarpe\esame\dati.c
+	"dati.h"
+	"controlli.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1752870881 source:c:\users\mdipa\desktop\esame laboratorio\esame(con_commenti)\controlli.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"controlli.h"
+
+1752871741 c:\users\mdipa\desktop\esame laboratorio\esame(con_commenti)\controlli.h
+	<stdio.h>
+	"dati.h"
+
+1752872461 c:\users\mdipa\desktop\esame laboratorio\esame(con_commenti)\dati.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1752870976 source:c:\users\mdipa\desktop\esame laboratorio\esame(con_commenti)\dati.c
+	"dati.h"
+	"controlli.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1752871032 source:c:\users\mdipa\desktop\esame laboratorio\esame(con_commenti)\file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"file.h"
+	"dati.h"
+	"controlli.h"
+	"utils.h"
+
+1752872461 c:\users\mdipa\desktop\esame laboratorio\esame(con_commenti)\file.h
+	"dati.h"
+	"controlli.h"
+	"utils.h"
+
+1752872461 c:\users\mdipa\desktop\esame laboratorio\esame(con_commenti)\utils.h
+	"dati.h"
+	"file.h"
+
+1752872461 source:c:\users\mdipa\desktop\esame laboratorio\esame(con_commenti)\funzioni.c
+	"funzioni.h"
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"utils.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<strings.h>
+	<math.h>
+
+1752872461 c:\users\mdipa\desktop\esame laboratorio\esame(con_commenti)\funzioni.h
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"utils.h"
+	<stdio.h>
+
+1752872567 source:c:\users\mdipa\desktop\esame laboratorio\esame(con_commenti)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funzioni.h"
+	"test.h"
+
+1752871889 c:\users\mdipa\desktop\esame laboratorio\esame(con_commenti)\test.h
+
+1752871535 source:c:\users\mdipa\desktop\esame laboratorio\esame(con_commenti)\test.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"test.h"
+	"utils.h"
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"funzioni.h"
+	<assert.h>
+
+1752871589 source:c:\users\mdipa\desktop\esame laboratorio\esame(con_commenti)\utils.c
+	"utils.h"
+	"controlli.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1752955971 source:c:\users\peppe1704\desktop\esamefinale1.0\esame(senza_commenti)\esame(con_commenti)\controlli.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<limits.h>
+	"controlli.h"
+	"dati.h"
+
+1752956815 c:\users\peppe1704\desktop\esamefinale1.0\esame(senza_commenti)\esame(con_commenti)\controlli.h
+	<stdio.h>
+	"dati.h"
+
+1752956815 c:\users\peppe1704\desktop\esamefinale1.0\esame(senza_commenti)\esame(con_commenti)\dati.h
+	<stdio.h>
+
+1752955970 source:c:\users\peppe1704\desktop\esamefinale1.0\esame(senza_commenti)\esame(con_commenti)\dati.c
+	"dati.h"
+	"controlli.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1752956128 source:c:\users\peppe1704\desktop\esamefinale1.0\esame(senza_commenti)\esame(con_commenti)\file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	"file.h"
+	"dati.h"
+	"controlli.h"
+	"utils.h"
+
+1752956815 c:\users\peppe1704\desktop\esamefinale1.0\esame(senza_commenti)\esame(con_commenti)\file.h
+	"dati.h"
+	"controlli.h"
+	"utils.h"
+
+1752956882 c:\users\peppe1704\desktop\esamefinale1.0\esame(senza_commenti)\esame(con_commenti)\utils.h
+	"dati.h"
+	"file.h"
+
+1752956128 source:c:\users\peppe1704\desktop\esamefinale1.0\esame(senza_commenti)\esame(con_commenti)\funzioni.c
+	"funzioni.h"
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"utils.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<strings.h>
+	<math.h>
+
+1752956815 c:\users\peppe1704\desktop\esamefinale1.0\esame(senza_commenti)\esame(con_commenti)\funzioni.h
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"utils.h"
+	<stdio.h>
+
+1752956171 source:c:\users\peppe1704\desktop\esamefinale1.0\esame(senza_commenti)\esame(con_commenti)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funzioni.h"
+	"test.h"
+
+1752956882 c:\users\peppe1704\desktop\esamefinale1.0\esame(senza_commenti)\esame(con_commenti)\test.h
+
+1752956582 source:c:\users\peppe1704\desktop\esamefinale1.0\esame(senza_commenti)\esame(con_commenti)\test.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"test.h"
+	"utils.h"
+	"dati.h"
+	"controlli.h"
+	"file.h"
+	"funzioni.h"
+	<assert.h>
+
+1752956690 source:c:\users\peppe1704\desktop\esamefinale1.0\esame(senza_commenti)\esame(con_commenti)\utils.c
+	"utils.h"
+	"controlli.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
